@@ -1,0 +1,6 @@
+import io.netty.buffer.FixedCompositeByteBuf;
+public class FunctionUse3499 {
+public void funcUse() {
+FixedCompositeByteBuf fixedcompositebytebuf = new FixedCompositeByteBuf();
+}
+}
